@@ -4,3 +4,4 @@
 - Fixed Prayer Toggle for new Players
 - Fixed Heal for new Players
 - NEW this Update Log when entering login screen
+- Added information here for demo reasons
