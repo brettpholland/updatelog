@@ -5,3 +5,4 @@
 - Fixed Heal for new Players
 - NEW this Update Log when entering login screen
 - Testing Updated Demo
+Maybe adding more text?
