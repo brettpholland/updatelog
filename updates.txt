@@ -7,4 +7,4 @@
 - Added more Mobs to Fight
 - Added more Weapons
 - Added more Armor
-Testing new updates
+- NOTE: Password now requires atleast 4 Characters!
