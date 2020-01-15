@@ -1,0 +1,11 @@
+- Updates to login calls to help with future issues
+- Fixed Crafting UI
+- Improved Server Performance
+- Fixed Prayer Toggle for new Players
+- Fixed Heal for new Players
+- NEW this Update Log when entering login screen
+- Added more Mobs to Fight
+- Added more Weapons
+- Added more Armor
+test
+testing again
