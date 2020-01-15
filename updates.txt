@@ -4,5 +4,6 @@
 - Fixed Prayer Toggle for new Players
 - Fixed Heal for new Players
 - NEW this Update Log when entering login screen
-- Testing Updated Demo
-Maybe adding more text?
+- Added more Mobs to Fight
+- Added more Weapons
+- Added more Armor
