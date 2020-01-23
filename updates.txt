@@ -1,10 +1,25 @@
-- Updates to login calls to help with future issues
-- Fixed Crafting UI
-- Improved Server Performance
-- Fixed Prayer Toggle for new Players
-- Fixed Heal for new Players
-- NEW this Update Log when entering login screen
-- Added more Mobs to Fight
-- Added more Weapons
-- Added more Armor
-- NOTE: Password now requires atleast 4 Characters!
+- Drastically reduced Size of App
+- Fixed General Shop T Pose
+- Narrowed Down HP Ring for Players
+- Re-arranged Target UI
+- Login Attempts Added (Attempt to fix AddPlayer)
+- Fixed Animations
+- Fixed Skeleton Double Name
+- Added New Weapon options(Wands, 2h Sword, Shortbow)
+- Gear Balancing
+- Map Fixes
+- Chat UI Improvements
+- Fix God Mode Healing Spam
+- Fixed Unarmed Bugs
+- Chat Redesigned to be collapsible and move able
+- Removed Books(Skills are auto learned for new accounts)
+- Can't Walk threw Trees/Resources
+- Drastically reduced Buy/Sell prices on items
+- Fixed Archer Helmet not being craftable
+- Adjusted/Balanced all Monsters
+- All Tiers of Trees, Flowers, Cotton, Ore and Wyvern Hides are available on the map
+- Gear Balancing
+- Added Combat Level requirements to use Armor/Weapons
+- Loading Screen Changes
+- Monster Freeze Fixes
+- Many other Bug fixes
