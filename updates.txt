@@ -1,8 +1,2 @@
 ~ Check Discord for Update Log ~
-
-| Current Alpha Bugs to be fixed |
-- Crafting can cause some item loss
-- You can walk through city building walls
-- Some Trees are floating
-
- - Thank you for your bug reports!
+Version 0.80. released, Enjoy!
